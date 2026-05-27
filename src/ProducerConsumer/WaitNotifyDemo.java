@@ -1,6 +1,4 @@
-import java.util.concurrent.Callable;
-import java.util.concurrent.CompletableFuture;
-import java.util.concurrent.Future;
+package ProducerConsumer;
 
 //i coded this on my own , lets'go.
 public class WaitNotifyDemo {
@@ -53,7 +51,7 @@ public class WaitNotifyDemo {
 
 
 // a better version
-//public class WaitNotifyDemo {
+//public class ProducerConsumer.WaitNotifyDemo {
 //
 //    private static final Object lock = new Object();
 //
